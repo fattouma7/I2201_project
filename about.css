@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('images/modern-furniture.jpg') no-repeat center center/cover;
+    height: 100vh;
+}
+
+h1 {
+    background-color: #333;
+    color: white;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+.sections {
+    margin-top: 50px;
+}
+
+.about-section {
+    background-color: rgb(255, 255, 255, 80%);
+    width: 80%;
+    margin: 10px auto;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    width: 1200px;
+    border-radius: 5px;
+}
+
+p,
+h3 {
+    margin: 20px;
+}
